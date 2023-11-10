@@ -10,7 +10,7 @@ To get started with the Sports Application API, follow these steps:
 
    ```sh
    git clone https://github.com/Calladrus2001/Eshway-Task.git
-   cd Eshway-Task
+   cd Back-end_task
    ```
 
 2. Install the required dependencies using npm:
